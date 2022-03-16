@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>FORM OLUŞTURMA</title>
+	</head>
+	<body style="background-color: lightgreen;">
+		<h1 style="background-color: aqua;text-align:center;font-family:Arial, Helvetica, sans-serif">FORM ÖRNEĞİ</h1>
+
+	<h2>Araba Kiralama Formu</h2>
+	<form>
+		
+		<p><label for="name">İsim</label><input id="name" type="text" placeholder="İsminizi yazınız."></p>
+		<p><label for="Surname">Soyisim</label><input id="surname" type="text" placeholder="Soyisminizi yazınız."></p>
+		<p><label for="Tel">Tel</label><input id="Tel" type="text" placeholder="Telefon numaranızı yazınız."></p>
+		<p><label for="Email">Email</label><input id="Email" type="email" placeholder="E-mailinizi yazınız." required></p>
+		<input type="button" value="Yolla">
+		<button type="submit">Click me!</button>
+		<label> <input type="checkbox">BMW</label>
+		<label> <input type="checkbox">Mercedes</label>
+		<label> <input type="checkbox">Hyundai</label>
+		<label> <input type="checkbox">Tesla</label>
+		<fieldset style="background-color: blue;">
+			<legend>Araba Markaları</legend>
+			<label><input type="radio" >BMW</label>
+			<label><input type="radio" name="car-type">Tesla</label>
+			<label><input type="radio" name="car-type">Toyota</label>
+		</fieldset>
+		<p><label>Kiralama Tarihi: <input type="date" placeholder="gün/ay/yıl"></label></p>
+		<textarea cols="10" rows="10"></textarea>
+	</form>
+</body>
+</html>

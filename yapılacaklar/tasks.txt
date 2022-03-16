@@ -1,0 +1,32 @@
+[COMPLETED] -> Contact Us formu--*
+	*name,surname inputlara yan yana alınacak--*
+	*email,phone number *required olarak işaretlenecek--*
+	*sayfadaki bütün textler white, background siyah olacak--*
+	*Contact us headeri kullanılacak ve ortalanacak--*
+	*message kısmında textarea kullanılıp max-size 50 karakter verilecek--*
+	*temizle ve submit buttonları eklenecek--*
+	*sayfa title: Hakkımızda--*
+[] -> Footer
+	* internette footer örneklerine bak
+	* social-media hesaplarını ekle (icon kullan veya text ile link olarak ekle)
+	* "tüm hakları simanet'e aittir" textini en alta ekle
+	*sayfa title: Footer yapımı
+[] -> Simabook Kayit Ol formu
+	* name,surname : border-radius eklenecek
+	* birthDate : calendar
+	* phone or email : input
+	* sign up -> button : background->black,color->blue
+	* adress : text-area max-length:50
+[] -> 
+[] -> 
+[] -> 
+[] -> 
+[] -> 
+[] -> 
+[] -> 
+[] -> 
+[] -> 
+[] -> 
+[] -> 
+[] -> 
+[] -> 
